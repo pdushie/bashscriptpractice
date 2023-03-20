@@ -13,4 +13,4 @@ read email
 echo "Enter your year of birth:"
 read yob
 
-echo "Your name is $name,your phone number is $phone, and your current age is $(echo "2023-$yob"|bc)"
+echo "Your name is $name, your phone number is $phone, your email address is $email, and your current age is $(echo "2023-$yob"|bc)"
