@@ -8,6 +8,8 @@ echo "Enter your name:"
 read name
 echo "Enter your phone number:"
 read phone
+echo "Enter your email address:"
+read email
 echo "Enter your year of birth:"
 read yob
 
